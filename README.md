@@ -23,8 +23,8 @@ Desde chico me interesé por el mundo de la tecnología, es asi que mi primer le
 
 *El bootcamp de Henry me permitió adquirir conocimientos solidos y experiencia real con el proyecto final para un cliente real y despegar definitivamente con estas 
 
-```ts
-interface tecnologías = {
+```js
+const tecnologías = [
 React,
 nodejs,
 javascript,
@@ -34,7 +34,7 @@ sequelize,
 typescript,
 sql,
 GIT,
-}
+]
 ``` 
 
 Incluyendo muchas mas como ser HTML, CSS, BOOTSTRAP entre otras.
