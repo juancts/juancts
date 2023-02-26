@@ -4,8 +4,9 @@
 ![me](https://user-images.githubusercontent.com/65400450/221417673-143d4b45-b070-40f1-99af-67204874a3d3.png)
 
 
-¿Quien soy?
-Soy un programador FullStack, licenciado en informática con experiencia en diversos sectores empresariales.
+**¿Quien soy?**
+Soy un programador FullStack, licenciado en informática con 
+experiencia en diversos sectores empresariales.
 
 
 Desde chico me intereso el mundo de la tecnología, es asi que mi primer lenguaje que aprendi fue javascript y html, cuando no existia css y utilizaba dreamweaver.
