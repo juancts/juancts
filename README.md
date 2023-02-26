@@ -5,7 +5,7 @@
 
 **¿Quien soy?**
 
-***Soy un programador FullStack, licenciado en informática con 
+*Soy un programador FullStack, licenciado en informática con 
 experiencia en diversos sectores empresariales.
 
 
