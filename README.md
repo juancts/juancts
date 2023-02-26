@@ -20,16 +20,20 @@ Mi objetivo principal es seguir creciendo en este mundo apasionante de la progra
 ¿Que tecnologias uso?
 El bootcamp de Henry me permitió adquirir conocimientos solidos y experiencia real con el proyecto final para un cliente real y despegar definitivamente con estas 
 
-tecnologías:
-- React
-- nodejs
-- javascript
-- redux
-- posgres
-- sequelize
-- typescript
-- sql
-- GIT
+```ts
+interface tecnologías = {
+React,
+nodejs,
+javascript,
+redux,
+posgres,
+sequelize,
+typescript,
+sql,
+GIT,
+}
+``` 
+
 Incluyendo muchas mas como ser HTML, CSS, BOOTSTRAP entre otras.
 
 Por favor no dude en contactarme!.
