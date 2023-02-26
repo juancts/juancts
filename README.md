@@ -21,7 +21,7 @@ Desde chico me interesé por el mundo de la tecnología, es asi que mi primer le
 
 **¿Que tecnologias uso?**
 
-*El bootcamp de Henry me permitió adquirir conocimientos solidos y experiencia real con el proyecto final para un cliente real y despegar definitivamente con estas 
+*El bootcamp de Henry me permitió adquirir conocimientos solidos y experiencia real con el proyecto final para un cliente real y despegar definitivamente con estas techs: 
 
 ```js
 const tecnologías = [
