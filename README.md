@@ -1,11 +1,11 @@
-
-### Hola! Bienvenida/o gracias por visitarme!. 👍❤
-
 ![me](https://user-images.githubusercontent.com/65400450/221417673-143d4b45-b070-40f1-99af-67204874a3d3.png)
 
 
+### Hola! Bienvenida/o gracias por visitarme!. 👍❤
+
 **¿Quien soy?**
-Soy un programador FullStack, licenciado en informática con 
+
+***Soy un programador FullStack, licenciado en informática con 
 experiencia en diversos sectores empresariales.
 
 
