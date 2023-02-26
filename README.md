@@ -9,7 +9,7 @@
 experiencia en diversos sectores empresariales.
 
 
-Desde chico me intereso el mundo de la tecnología, es asi que mi primer lenguaje que aprendi fue javascript y html, cuando no existia css y utilizaba dreamweaver.
+Desde chico me interesé por el mundo de la tecnología, es asi que mi primer lenguaje que aprendi fue javascript y html, cuando no existia css y utilizaba dreamweaver.
 
 **¿Que Hago?**
 
@@ -39,8 +39,12 @@ GIT,
 
 Incluyendo muchas mas como ser HTML, CSS, BOOTSTRAP entre otras.
 
-Por favor no dude en contactarme!.
-whatsapp 663687261
-mail: jotarodriguez@gmail.com
-linkedin: https://www.linkedin.com/in/jjrodriguez81/
+**Por favor no dude en contactarme!.**
+
+*whatsapp 663687261
+
+*mail: jotarodriguez@gmail.com
+
+*linkedin: https://www.linkedin.com/in/jjrodriguez81/
+
 
