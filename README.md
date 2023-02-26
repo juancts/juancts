@@ -1,7 +1,7 @@
 
 ### Hola! Bienvenida/o gracias por visitarme!. 👍❤
 
-![me]([https://www.dropbox.com/s/dc570tcs5sin4wq/cabeceragi.png?dl=0](https://previews.dropbox.com/p/thumb/AB3wN2KzLljItdHc8lSn8NMP2RSih645ycIdAwS07RWCdWFbcE3kGJL26jTZmUOBNAWmbCZfzgdzInq4oUgFGqkoqFMrqE38I3bJnAX6wUjovR9eXXMt09FbWcwfEpa-OJoY3zamnv0NallmmXhGs1uCv0xlI6v7CcNpO1KJXSmtFC1WUNq6OG4D0jFd4FQLDeptGc2hwijb2uVbzMDpHs--DFp9_Ay_2WtgsG1Q_4yjjcVrIVOZFKQ_a3_ieFVvIYAwg8AVdvKoWPuAvuLlT5Oxmf9sqzxTmWyp4cyR-LqiVUQBd09k1bfO4Ws_XaMNAaqDMWQnaO4uFzragzRP5ikNIbxAVGHDT_uHEcyveHrqcX1eSSZUtre_Ya1nevKmJ5E/p.png))
+![me](https://drive.google.com/file/d/1idVNFskYF-XbDUAe79-de9yMUNXoLiKN/view?usp=sharing)
 
 
 ¿Quien soy?
