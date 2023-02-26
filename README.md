@@ -26,14 +26,14 @@ Desde chico me interesé por el mundo de la tecnología, es asi que mi primer le
 ```js
 const tecnologías = [
 React,
-nodejs,
-javascript,
-redux,
-posgres,
-sequelize,
-typescript,
-sql,
-GIT,
+Nodejs,
+Javascript,
+Redux,
+Posgres,
+Sequelize,
+Typescript,
+Sql,
+GIT
 ]
 ``` 
 
