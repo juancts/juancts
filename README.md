@@ -1,7 +1,7 @@
 
 ### Hola! Bienvenida/o gracias por visitarme!. 👍❤
 
-!me[https://www.dropbox.com/s/dc570tcs5sin4wq/cabeceragi.png?dl=0]
+![me](https://www.dropbox.com/s/dc570tcs5sin4wq/cabeceragi.png?dl=0)
 
 
 ¿Quien soy?
