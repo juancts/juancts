@@ -1,5 +1,8 @@
 
-###Hola! Bienvenido gracias por visitarme!.
+### Hola! Bienvenida/o gracias por visitarme!. 👍❤
+
+!me[https://www.dropbox.com/s/dc570tcs5sin4wq/cabeceragi.png?dl=0]
+
 
 ¿Quien soy?
 Soy un programador FullStack, licenciado en informática con experiencia en diversos sectores empresariales.
@@ -14,7 +17,9 @@ Actualmente me dedico a realizar proyectos que me permiten crecer como programad
 Mi objetivo principal es seguir creciendo en este mundo apasionante de la programación y desarrollo, para luego poder manejar equipos de trabajo.
 
 ¿Que tecnologias uso?
-El bootcamp de Henry me permitió adquirir conocimientos solidos y experiencia real con el proyecto final para un cliente real y despegar definitivamente con estas tecnologías:
+El bootcamp de Henry me permitió adquirir conocimientos solidos y experiencia real con el proyecto final para un cliente real y despegar definitivamente con estas 
+
+tecnologías:
 - React
 - nodejs
 - javascript
