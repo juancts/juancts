@@ -1,7 +1,7 @@
-![me](https://user-images.githubusercontent.com/65400450/221417673-143d4b45-b070-40f1-99af-67204874a3d3.png)
+![image](https://user-images.githubusercontent.com/65400450/221439537-4e43a51d-453b-48b5-9659-d6ffc6bada4a.png)
 
 
-### Hola! Bienvenida/o gracias por visitarme!. 👍❤
+<h1 align="center">Hola! Bienvenida/o gracias por visitarme!. 👍❤</h1>
 
 **¿Quien soy?**
 
