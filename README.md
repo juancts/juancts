@@ -39,6 +39,8 @@ const tecnologías = [
 
 Incluyendo muchas mas como ser HTML, CSS, BOOTSTRAP entre otras.
 
+*También tengo conocimientos de desarrollo y administración en <a href="https://trailblazer.me/id/lrodriguez21"> Salesforce </a>. Puedo crear componentes, triggers, manejo de custom objects, seguridad, creación de apps y mucho mas. 
+
 **Por favor no dude en contactarme!.**
 
 *whatsapp 663687261
