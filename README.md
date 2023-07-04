@@ -21,6 +21,8 @@ Desde chico me interesé por el mundo de la tecnología, es asi que mi primer le
 
 **¿Que tecnologias uso?**
 
+* Siempre activo y aprendiendo actualmente me encuentro realizando prácticas intensivas como desarrollador FullStack en Oxygen.
+
 *El bootcamp de Henry me permitió adquirir conocimientos solidos y experiencia real con el proyecto final para un cliente real y despegar definitivamente con estas techs: 
 
 ```js
@@ -33,6 +35,7 @@ const tecnologías = [
 "Sequelize",
 "Typescript",
 "Sql",
+"Sass y BEM",
 "GIT"
 ]
 ``` 
