@@ -9,7 +9,7 @@
 experiencia en diversos sectores empresariales.
 
 
-Desde chico me interesé por el mundo de la tecnología, es asi que mi primer lenguaje que aprendi fue javascript y html, cuando no existia css y utilizaba dreamweaver.
+Desde chico me interesé por el mundo de la tecnología, es asi que mi primer lenguaje que aprendi fue javascript y html, dreamweaver.
 
 **¿Que Hago?**
 
