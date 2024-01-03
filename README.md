@@ -38,7 +38,12 @@ const tecnologías = [
 "Sass y BEM",
 "GIT"
 ]
-``` 
+```
+
+```Salesforce
+List<Techs> = new List<Techs>)([SELECT Apex, lwc, SOQL, aura FROM Salesforce])
+```
+
 
 Incluyendo muchas mas como ser HTML, CSS, BOOTSTRAP entre otras.
 
