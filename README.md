@@ -50,7 +50,7 @@ List<Techs> = new List<Techs>([SELECT Apex, lwc, SOQL, aura FROM Salesforce]);
 
 
 
-*También tengo conocimientos de desarrollo y administración en <a href="https://trailblazer.me/id/lrodriguez21"> Salesforce </a>. Puedo crear componentes, triggers, manejo de custom objects, seguridad, creación de apps y mucho mas. 
+*También tengo conocimientos de desarrollo y administración en <a href="https://www.salesforce.com/trailblazer/juanjoserodriguez"> Salesforce </a>. Puedo crear componentes, triggers, manejo de custom objects, seguridad, creación de apps y mucho mas. 
 
 **Por favor no dude en contactarme!.**
 
