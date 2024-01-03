@@ -39,13 +39,16 @@ const tecnologías = [
 "GIT"
 ]
 ```
+Incluyendo muchas mas como ser HTML, CSS, BOOTSTRAP entre otras.
+
+También tengo experiencia en:
 
 ```Salesforce
-List<Techs> = new List<Techs>)([SELECT Apex, lwc, SOQL, aura FROM Salesforce])
+List<Techs> = new List<Techs>([SELECT Apex, lwc, SOQL, aura FROM Salesforce]);
 ```
 
 
-Incluyendo muchas mas como ser HTML, CSS, BOOTSTRAP entre otras.
+
 
 *También tengo conocimientos de desarrollo y administración en <a href="https://trailblazer.me/id/lrodriguez21"> Salesforce </a>. Puedo crear componentes, triggers, manejo de custom objects, seguridad, creación de apps y mucho mas. 
 
